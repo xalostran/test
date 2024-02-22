@@ -1,7 +1,7 @@
 int rascal()
 {
     int health = 100;
-    int damage = 57;
+    int damage = 58;
 
     if (health < damage)
         return 0;
